@@ -22,5 +22,6 @@ Step 2. Find the city and state seraching on the zip code.
 
 Since the database type of operations are very easy in R, So I have used R language to find the City and State.
 
-3. DNA Sequencing 
+3. DNA Sequencing
+
 Find the only java file associated in the repository and Run the main file.
