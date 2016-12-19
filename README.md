@@ -19,12 +19,16 @@ Note : Remember to set the working directory before running the r scripts.
 Step 1. Download the Dataset having the information of the ZipCodes, Longitudes and Latitudes of the zip codes(Approximate), City and State.  
 Step 2. Find the city and state seraching on the zip code.  
   
-Since the database type of operations are very easy in R, So I have used R language to find the City and State.  
+Since the database type of operations are very easy in R, So I have used R language to find the City and State.
+Language Used : R Language  
+Note : Remember to set the working directory before running the r scripts.  
   
 ## 3. DNA Sequencing  
   
 Find the only java file associated in the repository and Run the main file.  
 Run the main file.Change the input sequence stored in the veriable and run again to verify the output.  
+  
+Language used : JAVA
   
 ## 4. Zip_Code_Dataset  
 This dataset cotains the inforamtoion for all postal codes of US in terms of City, States ,Longitude and Latitude.  
